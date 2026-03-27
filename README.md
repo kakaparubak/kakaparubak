@@ -40,15 +40,6 @@ also know my way around: `Zod · React · Next.js · Prisma · C++`
 - win a hackathon with something that genuinely moves the needle
 - get good enough at backend engineering that i stop googling drizzle ORM syntax every 10 minutes
  
----
- 
-### find me
- 
-| | |
-|---|---|
-| GitHub | [@kakaparubak](https://github.com/kakaparubak) |
-| LinkedIn | `coming soon` |
-| Email | `coming soon` |
  
 ---
  
